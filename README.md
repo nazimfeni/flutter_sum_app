@@ -1,6 +1,7 @@
 # flutter_sum_app
 
 A new Flutter project.
+https://github.com/nazimfeni/flutter_sum_app/blob/master/screenshot/Screen.png
 
 ## Getting Started
 
